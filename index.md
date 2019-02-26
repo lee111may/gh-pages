@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my Website
 
-I'm glad you are here. I plan to talk about ...
+My name is Lee and i am currentl studying a bachelor of IT and RMIT university through OUA.
