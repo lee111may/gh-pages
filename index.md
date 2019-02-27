@@ -13,9 +13,9 @@ My career has taken me to a place where I no longer enjoy doing what I do, I do 
 What do I hope to do after graduation?
 I would like to either work in application development or anything to do with network setups. Either way, I would be happy plugging away at code in front of a screen for a living or going from place to place setting up networks. The end result of both would be gratifying to know that I have made a difference and solved a problem for someone or some company.
 Personal Information
-Name: //Lee May
-Student ID: //S3770851
-Email address: //S3770851@student.rmit.edu.au
+Name: Lee May
+Student ID: S3770851
+Email address: S3770851@student.rmit.edu.au
 Background: New Zealand born Australian Citizen, my education to date is limited. Previous studies at TAFE, diploma of management various other training courses (mainly work stuff). I would have to say that life experience has been my constant teacher to date. I have worked from the ground up in my early years to a senior role in management over my career. I have an interest in golf, motorcycles and in my spare time I also like to sketch and airbrush. My favourite sport would be hands down MOTO GP.
 What i expect to learn during my studies?
 So far, I have already learned more than I could have thought possible in such a short amount of time. My programming knowledge of Java has developed rather quickly and I’m extremely excited to continue learning not only Java but all other areas too. I don’t expect to become a fully-fledged developer overnight without the hard work and screen time but I do expect that I will know enough to begin my journey confidently and grow from there.
