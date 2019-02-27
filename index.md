@@ -23,7 +23,7 @@ I started learning through him and reading and understanding the code and how th
 <b>Personal Information:</b><br>
 Name: Lee May<br>
 Student ID: S3770851<br>
-Email address:<a href=" S3770851@student.rmit.edu.au">S3770851@student.rmit.edu.au</a><br>
+Email address: <a href="S3770851@student.rmit.edu.au">S3770851@student.rmit.edu.au</a><br>
 Background: New Zealand born Australian Citizen, my education to date is limited.<br> 
 <p>Previous studies at TAFE, diploma of management various other training courses (mainly work stuff). 
 I would have to say that life experience has been my constant teacher to date. I have worked from the ground up in my early years to a senior role in management over my career. 
