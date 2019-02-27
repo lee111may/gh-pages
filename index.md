@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Welcome to my Website!</title>
-<style type ="text/css">
-  </head>
+
+    <h1>Welcome to my Website!</h1>
+
+ 
 <h2>Hi, my name is Lee and i am currently studying a bachelor of IT at RMIT university through
   Open Universities Australia.</h2>
 <body>
@@ -33,7 +31,7 @@ Background: New Zealand born Australian Citizen, my education to date is limited
 I would have to say that life experience has been my constant teacher to date. I have worked from the ground up in my early years to a senior role in management over my career. 
 I have an interest in golf, motorcycles and in my spare time I also like to sketch and airbrush.<br>
 My favourite sport would be hands down <a href="http://www.motogp.com/"><b>MOTO GP.</b></a></p>
-<b>Moto GP</b><img src="motogp.jpg"style ="display: block; margin-left:auto; margin-right: auto;></img><br>
+<b>Moto GP</b><img src="motogp.jpg"></img><br>
 <b>What i expect to learn during my studies?</b>
 <p>So far, I have already learned more than I could have thought possible in such a short amount of time. My programming knowledge of Java has developed rather quickly and I’m extremely excited to continue learning not only Java but all other areas too. I don’t expect to become a fully-fledged developer overnight without the hard work and screen time but I do expect that I will know enough to begin my journey confidently and grow from there.</p>
 </body>
