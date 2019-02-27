@@ -1,14 +1,15 @@
-title: Your awesome title
+title: Lethal.com
 author: GitHub User
-email: your-email@domain.com
+email: s3770851@student.rmit.edu.au
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This site is about me and my thoughts on all things IT related.
+  It is part of an assessment required for uni and asks us to create a website
+  through Github. There are a number of elements that i need to place in the content
+  but i haven't completed that part yet.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+instagram_username: lee111may
+github_username:  lee111may
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
