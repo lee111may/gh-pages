@@ -1,10 +1,11 @@
 # Welcome to my Website!
 
 My name is Lee and i am currently studying a bachelor of IT at RMIT university through Open Universities Australia.
-<b>Why have I chosen to study this course at RMIT?</b>
-I have chosen to study because I have a real passion for all things IT and figured it was time to challenge myself.  I have been procrastinating for years about whether to take on a degree but due to the nature of my work role I wasn’t sure that I would be able to devote the time to a degree.
-I am interested in IT because…
-I have had previous experience in upgrading and repairing PC’s, building PC’s from scratch and fixing family and friends PC’s for years. I took an interest in programming, mainly by accident through a work colleague who fascinated me with his VBA programming skills. I started learning through him and reading and understanding the code and how things worked until I could build my own macros confidently and create some okay programs with forms for work purposes. The ever changing fast evolving world of IT always keeps me wanting more and knowing more. 
+<p><b>Why have I chosen to study this course at RMIT?</b></p>
+I have chosen to study because I have a real passion for all things IT and figured it was time to challenge myself. 
+I have been procrastinating for years about whether to take on a degree but due to the nature of my work role I wasn’t sure that I would be able to devote the time to a degree.
+<b>I am interested in IT because…</b>
+I have had previous experience in upgrading and repairing PC’s, building PC’s from scratch and fixing family and friends PC’s for years. <p>I took an interest in programming, mainly by accident through a work colleague who fascinated me with his VBA programming skills.</p> I started learning through him and reading and understanding the code and how things worked until I could build my own macros confidently and create some okay programs with forms for work purposes. The ever changing fast evolving world of IT always keeps me wanting more and knowing more. 
 
 What makes IT interesting for me?
 The fact that I know how to do things that others can’t do, yet also being aware that there are far more people out there that know far more than I do. I have an appetite for learning all things IT and with so many people out there that I can learn from makes it exciting and interesting. There are so many aspects to IT that it makes it difficult for me to pinpoint any one area that interests me. I would have to say though, at this stage it is programming that has my attention. It is indeed like trying to learn a foreign language in a foreign country, but the challenge is worthwhile once you manage to develop some working programs and realise that it’s starting to come together.
