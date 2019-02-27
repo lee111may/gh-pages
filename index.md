@@ -1,7 +1,7 @@
 # Welcome to my Website!
 
 My name is Lee and i am currently studying a bachelor of IT at RMIT university through Open Universities Australia.
-Why have I chosen to study this course at RMIT?
+<b>Why have I chosen to study this course at RMIT?</b>
 I have chosen to study because I have a real passion for all things IT and figured it was time to challenge myself.  I have been procrastinating for years about whether to take on a degree but due to the nature of my work role I wasn’t sure that I would be able to devote the time to a degree.
 I am interested in IT because…
 I have had previous experience in upgrading and repairing PC’s, building PC’s from scratch and fixing family and friends PC’s for years. I took an interest in programming, mainly by accident through a work colleague who fascinated me with his VBA programming skills. I started learning through him and reading and understanding the code and how things worked until I could build my own macros confidently and create some okay programs with forms for work purposes. The ever changing fast evolving world of IT always keeps me wanting more and knowing more. 
