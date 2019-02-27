@@ -1,4 +1,4 @@
-# Welcome to my Website!
+# <h1>Welcome to my Website!</h1>
 
 My name is Lee and i am currently studying a bachelor of IT at RMIT university through Open Universities Australia.
 <p><b>Why have I chosen to study this course at RMIT?</b></p>
