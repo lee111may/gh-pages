@@ -1,13 +1,25 @@
 <html>
  <head>
- <div>
-<h1>Welcome to my Website!</h1>
-  </div>
+ 
+<title>Welcome to my Website!</title>
+ 
  <link rel = "stylesheet" type = "text/css" href = style.css />
  </head>
- 
-<h2>Hi, my name is Lee and i am currently studying a bachelor of IT at RMIT university through
-  Open Universities Australia.</h2>
+ <div id="container">
+ <div id = "header">
+<h1>Hi, my name is Lee and i am currently studying a bachelor of IT at RMIT university through
+  Open Universities Australia.</h1>
+ </div>
+ <div id = "content">
+  <div id = "nav">
+   <h3>Navigation</h3>
+   <ul>
+    <li>Home</li>
+    <li>About</li>
+    <li>Contact</li>
+   </ul>
+    
+  
 <body>
   
 <b>Why have I chosen to study this course at RMIT?</b><p>
