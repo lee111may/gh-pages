@@ -1,5 +1,5 @@
 
-    <h1>Welcome to my Website!</h1>
+<h1>Welcome to my Website!</h1>
 
  
 <h2>Hi, my name is Lee and i am currently studying a bachelor of IT at RMIT university through
