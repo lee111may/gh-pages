@@ -1,9 +1,7 @@
 <html>
- <head>
- 
-<title>Welcome to my Website!</title>
- 
- <link rel = "stylesheet" type = "text/css" href = style.css />
+ <head> 
+<title>Welcome to my Website!</title> 
+ <link rel = "stylesheet" type = "text/css" href = "style.css"/>
  </head>
  <div id="container">
  <div id = "header">
