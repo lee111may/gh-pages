@@ -1,8 +1,11 @@
 <html>
+ <head>
  <div>
 <h1>Welcome to my Website!</h1>
- </div>
+  </div>
  <link rel = "stylesheet" type = "text/css" href = style.css />
+ </head>
+ 
 <h2>Hi, my name is Lee and i am currently studying a bachelor of IT at RMIT university through
   Open Universities Australia.</h2>
 <body>
@@ -36,3 +39,4 @@ My favourite sport would be hands down <a href="http://www.motogp.com/"><b>MOTO 
 <b>What i expect to learn during my studies?</b>
 <p>So far, I have already learned more than I could have thought possible in such a short amount of time. My programming knowledge of Java has developed rather quickly and I’m extremely excited to continue learning not only Java but all other areas too. I don’t expect to become a fully-fledged developer overnight without the hard work and screen time but I do expect that I will know enough to begin my journey confidently and grow from there.</p>
 </body>
+</html>
