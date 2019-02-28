@@ -2,7 +2,7 @@
  <div>
 <h1>Welcome to my Website!</h1>
  </div>
- 
+ <link rel = "stylesheet" type = "text/css" href = style.css />
 <h2>Hi, my name is Lee and i am currently studying a bachelor of IT at RMIT university through
   Open Universities Australia.</h2>
 <body>
