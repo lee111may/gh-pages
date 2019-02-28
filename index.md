@@ -3,6 +3,7 @@
 <title>Welcome to my Website!</title> 
  <link rel = "stylesheet" type = "text/css" href = "style.css"/>
  </head>
+ <body>
  <div id="container">
  <div id = "header">
 <h1>Hi, my name is Lee and i am currently studying a bachelor of IT at RMIT university through
@@ -16,9 +17,8 @@
     <li>About</li>
     <li>Contact</li>
    </ul>
-    
-  
-<body>
+    <div id="main">
+     <h2>Home Page</h2>
   
 <b>Why have I chosen to study this course at RMIT?</b><p>
 I have chosen to study because I have a real passion for all things IT and figured it was time to challenge myself. 
@@ -48,5 +48,8 @@ My favourite sport would be hands down <a href="http://www.motogp.com/"><b>MOTO 
 <img src="motogp.jpg"><br>
 <b>What i expect to learn during my studies?</b>
 <p>So far, I have already learned more than I could have thought possible in such a short amount of time. My programming knowledge of Java has developed rather quickly and I’m extremely excited to continue learning not only Java but all other areas too. I don’t expect to become a fully-fledged developer overnight without the hard work and screen time but I do expect that I will know enough to begin my journey confidently and grow from there.</p>
+</div>
+</div>
+</div>
 </body>
 </html>
