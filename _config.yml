@@ -11,5 +11,5 @@ instagram_username: lee111may<br>
 github_username:  lee111may
 
 show_excerpts: false # set to false to remove excerpts on the homepage
-
+theme: jekyll-theme-cayman
 
