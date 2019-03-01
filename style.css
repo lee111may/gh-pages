@@ -21,7 +21,7 @@ body{
   float: left;
 }
 #nav.selected{
-  font-underline: true;
+  font-underline: false;
 }
 #main{
   width: 600px;
