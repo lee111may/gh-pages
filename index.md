@@ -14,7 +14,7 @@
    <h3>Navigation</h3>
    <ul>
     <li>Home</li>
-    <li><a href="about me">About</li>
+    <li><a href="about me"/>About</li>
     <li>Contact</li>
    </ul>
   </div>
