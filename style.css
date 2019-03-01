@@ -20,6 +20,9 @@ body{
   width: 180px;
   float: left;
 }
+#nav.selected{
+  font-underline: true;
+}
 #main{
   width: 600px;
   float: right;
