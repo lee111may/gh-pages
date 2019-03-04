@@ -15,7 +15,6 @@
    <ul>
     <li><a class="selected" href="">Home</a></li>
     <li><a href="aboutme.html">About</a></li>
-    <li><a href="">Contact</a></li>
    </ul>
   </div>
     <div id="main">
@@ -37,20 +36,7 @@ I started learning through him and reading and understanding the code and how th
   
 <b>What do I hope to do after graduation?</b>
 <p>I would like to either work in application development or anything to do with network setups. Either way, I would be happy plugging away at code in front of a screen for a living or going from place to place setting up networks. The end result of both would be gratifying to know that I have made a difference and solved a problem for someone or some company.</p>
-<b>Personal Information:</b><br>
-Name: Lee May<br>
-Student ID: S3770851<br>
-Email address: <a href="S3770851@student.rmit.edu.au">S3770851@student.rmit.edu.au</a><br>
-Background: New Zealand born Australian Citizen, my education to date is limited.<br> 
-<p>Previous studies at TAFE, diploma of management various other training courses (mainly work stuff). 
-I would have to say that life experience has been my constant teacher to date. I have worked from the ground up in my early years to a senior role in management over my career. 
-I have an interest in golf, motorcycles and in my spare time I also like to sketch and airbrush.<br>
-My favourite sport would be hands down <a href="http://www.motogp.com/"><b>MOTO GP.</b></a></p>
-<div id="motoPhoto">
-<img src="motogp.jpg"><br>
- </div>
-<b>What i expect to learn during my studies?</b>
-<p>So far, I have already learned more than I could have thought possible in such a short amount of time. My programming knowledge of Java has developed rather quickly and I’m extremely excited to continue learning not only Java but all other areas too. I don’t expect to become a fully-fledged developer overnight without the hard work and screen time but I do expect that I will know enough to begin my journey confidently and grow from there.</p>
+
 </div>
 </div>
 <div id="footer">
