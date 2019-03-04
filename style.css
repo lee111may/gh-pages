@@ -10,8 +10,11 @@ body{
 
 #header{
   background-color: #CC9999;
-  font-color: white;
+  color: white;
   text-align: center;
+}
+#h2{
+  font-color: white;
 }
 
 #content{
