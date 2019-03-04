@@ -7,38 +7,23 @@ body{
   margin-left: auto;
   margin-right: auto;
 }
-#aboutContainer{
-  background-color: white;
-  width: 800px;
-  margin-left: auto;
-  margin-right: auto;
-}
+
 #header{
   background-color: #CC9999;
   color: white;
   text-align: center;
 }
-#aboutHeader{
-  background-color: #CC9999;
-  color: white;
-  text-align: center;
-}
+
 #content{
   padding: 10px;
  
 }
-#aboutContent{
-  padding: 10px;
- 
-}
+
 #nav{
   width: 180px;
   float: left;
 }
-#aboutNav{
-  width: 180px;
-  float: left;
-}
+
 #nav.selected{
   font-underline: false;
 }
@@ -46,10 +31,7 @@ body{
   width: 600px;
   float: right;
 }
-#aboutMain{
-  width: 600px;
-  float: right;
-}
+
 #motoPhoto{
   margin-left: auto;
   margin-right: auto;
