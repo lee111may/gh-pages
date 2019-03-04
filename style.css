@@ -18,7 +18,16 @@ body{
   color: white;
   text-align: center;
 }
+#aboutHeader{
+  background-color: #66CCFF;
+  color: white;
+  text-align: center;
+}
 #content{
+  padding: 10px;
+ 
+}
+#aboutContent{
   padding: 10px;
  
 }
