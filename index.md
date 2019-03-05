@@ -39,11 +39,11 @@ I started learning through him and reading and understanding the code and how th
 <p>I would like to either work in application development or anything to do with network setups. Either way, I would be happy plugging away at code in front of a screen for a living or going from place to place setting up networks. The end result of both would be gratifying to know that I have made a difference and solved a problem for someone or some company.</p>
 
 </div>
-</div>
+
 <div id="footer">
  Copyright &copy; 2018 Lee May
  </div>
-
+</div>
 </div>
 
 
