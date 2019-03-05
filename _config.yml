@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This site is about me and my thoughts on all things IT related.<br>
   It is part of an assignment required for uni that asks us to create a website
   through Github.
+  description-col: "#EEE"
 #social links
 instagram_username: lee111may
 github_username:  lee111may
