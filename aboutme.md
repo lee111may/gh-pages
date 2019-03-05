@@ -17,8 +17,11 @@
   </div>
     <div id="main">
      <h2>About Me</h2>
-  
-
+ img{
+ width: 600px;
+  height: 200px;
+  object-fit: cover; 
+}
 <b>Personal Information:</b><br>
 Name: Lee May<br>
 Student ID: S3770851<br>
