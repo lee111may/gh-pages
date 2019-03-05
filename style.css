@@ -42,6 +42,8 @@ img{
   object-fit: cover;
 }
 #footer{
+  float: right;
+  text-align: right;
   clear: both;
   margin-left: auto;
   margin-right: auto;
