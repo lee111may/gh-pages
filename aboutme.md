@@ -37,8 +37,8 @@ My favourite sport would be hands down <a href="http://www.motogp.com/"><b>MOTO 
 </div>
 </div>
 </div>      
+</div>
 <div id="footer">
  Copyright &copy; 2018 Lee111
 
-</div>
 </div>
