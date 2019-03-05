@@ -5,9 +5,8 @@
  <body>
  <div id="container">
  <div id="header">
-  Hi, my name is Lee and i am currently studying a bachelor of IT at RMIT university through
-  Open Universities Australia.
- </div>
+  
+ 
  <div id = "content">
   <div id = "nav">
    <h3>Navigation</h3>
@@ -16,7 +15,10 @@
     <li><a href="aboutme.html">About</a></li>
    </ul>
   </div>
+ </div>
     <div id="main">
+     <h2>Hi, my name is Lee and i am currently studying a bachelor of IT at RMIT university through
+   Open Universities Australia.</h2>
      <h2>Home Page</h2>
   
 <b>Why have I chosen to study this course at RMIT?</b><p>
