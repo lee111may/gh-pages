@@ -15,6 +15,8 @@ body{
 }
 h2{
  width:800px; 
+  margin-left: auto;
+  margin-right: auto;
 }
 #content{
   padding: 10px;
