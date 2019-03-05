@@ -13,6 +13,10 @@ body{
   color: white;
   text-align: center;
 }
+h2{
+  font-color:white;
+  background-color: #C0C0C0;
+}
 
 
 #content{
