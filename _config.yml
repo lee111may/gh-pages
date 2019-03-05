@@ -2,7 +2,7 @@ title: RMIT Website Project
 author: GitHub User
 email: s3770851@student.rmit.edu.au
 description: > # this means to ignore newlines until "baseurl:"
-  This site is about me and my thoughts on all things IT related.
+  This site is about me and my thoughts on all things IT related.<br>
   It is part of an assignment required for uni that asks us to create a website
   through Github.
 #social links
