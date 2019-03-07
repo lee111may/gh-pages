@@ -9,10 +9,10 @@
                  <h1 style="float: left;"><a href="/">IPS Document Library</a></h1>
   <div style="float: right; margin-top: 5px; font-size: 12px; color: #888;">
       <a style="font-weight: normal;" href="/">Home</a>&nbsp;&nbsp;\&nbsp;
-          <a style="font-weight: normal;" target="_blank" href="http://twitter.com/eclipsethemes">Twitter</a>&nbsp;&nbsp;\&nbsp;
- <a style="font-weight: normal;" href="/?view=editors">Supported editors</a>&nbsp;&nbsp;\&nbsp;
- <a style="font-weight: normal;" href="/?view=how-to-use">How to use the themes</a>&nbsp;&nbsp;\&nbsp;
-  <a style="font-weight: normal;" href="/?view=login">Login</a>
+          <a style="font-weight: normal;" target="_blank" href="">Time Sheets</a>&nbsp;&nbsp;\&nbsp;
+ <a style="font-weight: normal;" href="">Run Sheets</a>&nbsp;&nbsp;\&nbsp;
+ <a style="font-weight: normal;" href="/?view=how-to-use">SOP's</a>&nbsp;&nbsp;\&nbsp;
+  <a style="font-weight: normal;" href="">KPI's</a>
  &nbsp;\&nbsp;
  <span style="font-size: 11px;"> <a href="http://www.aip.com.au/">Diesel Price</a></span>
  </div>                                    
