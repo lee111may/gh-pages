@@ -25,12 +25,7 @@
     <li><a href="">Run Sheets</a></li>
    </ul>
   </div>
-                  
-
- 
- 
- 
- 
+                 
  <div class="clear"></div>
 </div>
  <div id="main">
@@ -38,7 +33,7 @@
  <h2>Home Page</h2>
   
 <b>Use this library to find the most current and up to date document</b><p>
-This is a repository of all forms, manuals, documents and files required for the daily operation of IPS Logistics and HD Night. If you can't find what you are looking for, or if the document is outdated then please send and email to</p> <a href="lmay@ipslogistics.com.au>Lee May</a>
+This is a repository of all forms, manuals, documents and files required for the daily operation of IPS Logistics and HD Night. If you can't find what you are looking for, or if the document is outdated then please send an email to</p> <a href="lmay@ipslogistics.com.au">Lee May</a>
   
 
 </div>
