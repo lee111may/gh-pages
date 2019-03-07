@@ -34,8 +34,8 @@
   
 <b>Use this library to find the most current and up to date document</b><p>
 This is a repository of all forms, manuals, documents and files required for the daily operation of IPS Logistics and HD Night.<br>
-If you can't find what you are looking for, or if the document is outdated then please send an email to</p> 
-<a href="lmay@ipslogistics.com.au">Lee May</a>
+If you can't find what you are looking for, or if the document is outdated then please send an email to 
+<a href="lmay@ipslogistics.com.au">Lee May</a></p>
   
 
 </div>
