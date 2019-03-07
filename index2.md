@@ -23,6 +23,11 @@
    <ul>
     <li><a class="selected" href="">Time Sheets</a></li>
     <li><a href="">Run Sheets</a></li>
+    <li><a href="">Time Sheets</a></li>
+    <li><a href="">SOP's</a></li>
+    <li><a href="">Risk Assessments</a></li>
+    <li><a href="">KPI's</a></li>
+    <li><a href="">Transport Quote Calculator</a></li>
    </ul>
   </div>
                  
@@ -42,6 +47,6 @@ If you can't find what you are looking for, or if the document is outdated then 
 </div>
 
 <div id="footer">
- Copyright &copy; 2018 IPS Logistics PTY LTD
+ Copyright &copy; 2019 IPS Logistics PTY LTD
  </div>
 </div>
