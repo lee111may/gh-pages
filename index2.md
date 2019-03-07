@@ -14,7 +14,7 @@
  <a style="font-weight: normal;" href="/?view=how-to-use">How to use the themes</a>&nbsp;&nbsp;\&nbsp;
   <a style="font-weight: normal;" href="/?view=login">Login</a>
  &nbsp;\&nbsp;
- <span style="font-size: 11px;">by <a href="http://ubercode.de" target="_blank">Lee May</a> & <a target="_blank" href="http://www.aip.com.au/">Diesel Price</a></span>
+ <span style="font-size: 11px;">by <href="http://www.aip.com.au/">Diesel Price</a></span>
  </div>                                    
  </div>
  <div id = "content">
