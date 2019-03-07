@@ -6,7 +6,7 @@
  <body>
  <div id="container">
  <div id="header">
-  <h2>IPS FIle Library</h2>
+  <h2>IPS File Library</h2>
  </div>
  <div id = "content">
   <div id = "nav">
