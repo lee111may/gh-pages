@@ -6,7 +6,16 @@
  <body>
  <div id="container">
  <div id="header">
-  <h2>IPS File Library</h2>
+                 <h1 style="float: left;"><a href="/">IPS Document Library</a></h1>
+  <div style="float: right; margin-top: 5px; font-size: 12px; color: #888;">
+      <a style="font-weight: normal;" href="/">Home</a>&nbsp;&nbsp;\&nbsp;
+          <a style="font-weight: normal;" target="_blank" href="http://twitter.com/eclipsethemes">Twitter</a>&nbsp;&nbsp;\&nbsp;
+ <a style="font-weight: normal;" href="/?view=editors">Supported editors</a>&nbsp;&nbsp;\&nbsp;
+ <a style="font-weight: normal;" href="/?view=how-to-use">How to use the themes</a>&nbsp;&nbsp;\&nbsp;
+  <a style="font-weight: normal;" href="/?view=login">Login</a>
+ &nbsp;\&nbsp;
+ <span style="font-size: 11px;">by <a href="http://ubercode.de" target="_blank">Felix H. Dahlke</a> & <a target="_blank" href="http://www.rogerdudler.com/">Roger Dudler</a></span>
+ </div>                                    
  </div>
  <div id = "content">
   <div id = "nav">
@@ -16,12 +25,19 @@
     <li><a href="">Run Sheets</a></li>
    </ul>
   </div>
+                  
+
  
+ 
+ 
+ 
+ <div class="clear"></div>
+</div>
  <div id="main">
      
  <h2>Home Page</h2>
   
-<b>Why have I chosen to study this course at RMIT?</b><p>
+<b>Use this library to find the most current and up to date document</b><p>
 I have chosen to study because I have a real passion for all things IT and figured it was time to challenge myself. 
 I have been procrastinating for years about whether to take on a degree but due to the nature of my work role I wasn’t sure that I would be able to devote the time to a degree.</p>
   
