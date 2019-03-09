@@ -33,7 +33,10 @@ body{
   float: right;
  
 }
-
+#screenShot{
+width: 600px;
+  height: auto;
+}
 img{
   display:block;
   
