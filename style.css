@@ -14,12 +14,22 @@ body{
   text-align: center;
 }
 
-
 #content{
-  padding: 10px;
- 
+  padding: 10px; 
 }
-.h2{
+#photo1{
+ display:block;
+  width: 700px;
+  height: 400;
+  object-fit: cover;
+}
+#photo2{
+ display:block;
+  width: 700px;
+  height: 200;
+  object-fit: cover;
+}
+h2{
 color: red;
 }
 #nav{
