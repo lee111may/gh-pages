@@ -5,10 +5,11 @@
  <body>
  <div id="container">
  <div id="header">
-  <h2>Hi, my name is Lee and i am currently studying a bachelor of IT at RMIT university through
-   Open Universities Australia.</h2>
+  
  </div>
  <div id = "content">
+ <h2>Hi, my name is Lee and i am currently studying a bachelor of IT at RMIT university through
+   Open Universities Australia.</h2>
   <div id = "nav">
    <h3>Navigation</h3>
    <ul>
