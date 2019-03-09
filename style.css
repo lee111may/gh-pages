@@ -29,9 +29,7 @@ body{
   height: 200;
   object-fit: cover;
 }
-h2{
-color: red;
-}
+
 #nav{
   width: 180px;
   float: left;
