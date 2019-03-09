@@ -5,7 +5,7 @@
  </head>
  <body>
  <div id="container">
- <div id="header">
+ <div id="header"><br>
 <h2>The Good Stuff</h2>
  </div>
  <div id = "content">
@@ -16,7 +16,7 @@
    </ul>
   </div>
     <div id="main">
-     <h2>About Me</h2>
+    
  
 <b>Personal Information:</b><br>
 Name: Lee111<br>
