@@ -27,6 +27,7 @@ Human Metrics Personality Score: <a href="http://www.humanmetrics.com/personalit
 Personality Perfect test: <a href="https://www.personalityperfect.com/istj-the-inspector-premium-profile/">Click Here</a><br>
 <div id="screenShot">
     <img src="Personality Profile1.png">
+    <img src="HumanMetrics.png">
     </div>
 Background: New Zealand born Australian Citizen, my education to date is limited.<br> 
 <p>Previous studies at TAFE, diploma of management various other training courses (mainly work stuff). 
