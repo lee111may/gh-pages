@@ -23,6 +23,10 @@ Name: Lee111<br>
 Student ID: S3770851<br>
 Email address: <a href="S3770851@student.rmit.edu.au">S3770851@student.rmit.edu.au</a><br>
 Big Five Personality Score: <a href="https://bigfive-test.com/result/5c7e19372a70890053b9080e">Click Here</a><br>
+Personality Perfect test: <a href="https://www.personalityperfect.com/istj-the-inspector-premium-profile/">Click Here</a><br>
+<div id="screenShot">
+    <img src="Personality Profile.png">
+    </div>
 Background: New Zealand born Australian Citizen, my education to date is limited.<br> 
 <p>Previous studies at TAFE, diploma of management various other training courses (mainly work stuff). 
 I would have to say that life experience has been my constant teacher to date. I have worked from the ground up in my early years to a senior role in management over my career. 
