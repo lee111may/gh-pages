@@ -33,9 +33,13 @@ body{
   float: right;
  
 }
-#screenShot.img{
+#screenShot{
 width: 600px;
   height: 400px;
+}
+#hmPhoto{
+width: auto;
+  height: auto;
 }
 img{
   display:block;
