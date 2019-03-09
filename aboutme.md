@@ -38,12 +38,12 @@ I have an interest in golf, motorcycles and in my spare time I also like to sket
 My favourite sport would be hands down <a href="http://www.motogp.com/"><b>MOTO GP.</b></a></p>
 <div id="photo3">
 <img src="motogp.jpg"><br>
- </div><br>
+ 
 <b>What i expect to learn during my studies?</b>
 <p>So far, I have already learned more than I could have thought possible in such a short amount of time. My programming knowledge of Java has developed rather quickly and I’m extremely excited to continue learning not only Java but all other areas too. I don’t expect to become a fully-fledged developer overnight without the hard work and screen time but I do expect that I will know enough to begin my journey confidently and grow from there.</p>
 </div>
 </div>
-    
+</div>   
 
 <div id="footer">
  Copyright &copy; 2019 Lee111
