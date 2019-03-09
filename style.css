@@ -39,7 +39,7 @@ color: red;
 img{
   display:block;
   width: 700px;
-  height: auto;
+  height: 200;
   object-fit: cover;
 }
 #footer{
