@@ -19,7 +19,7 @@ body{
   padding: 10px;
  
 }
-h2{
+.h2{
 color: red;
 }
 #nav{
@@ -39,7 +39,7 @@ color: red;
 img{
   display:block;
   width: 700px;
-  height: 700px;
+  height: auto;
   object-fit: cover;
 }
 #footer{
