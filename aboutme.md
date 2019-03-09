@@ -25,10 +25,10 @@ Email address: <a href="S3770851@student.rmit.edu.au">S3770851@student.rmit.edu.
 Big Five Personality Score: <a href="https://bigfive-test.com/result/5c7e19372a70890053b9080e">Click Here</a><br>
 Personality Perfect test: <a href="https://www.personalityperfect.com/istj-the-inspector-premium-profile/">Click Here</a><br>
 Human Metrics Personality Score: <a href="http://www.humanmetrics.com/personality/intj-type?EI=-16&SN=-25&TF=41&JP=59">Click Here</a><br>
-<div>
-    <img src="Personality Profile1.png"><br>
- </div>
- <div>
+<div id="photo1">
+    <img src="Personality Profile1.png">
+ </div><br>
+ <div id="photo2">
     <img src="Human Metrics.png">
  </div>  <br> 
 Background: New Zealand born Australian Citizen, my education to date is limited.<br> 
