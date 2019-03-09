@@ -33,21 +33,11 @@ body{
   float: right;
  
 }
-.screenShot{
-  border-style: solid;
-  border-color: black;
-width: 700px;
-  height: auto;
-}
-.hmPhoto{
-width: auto;
-  height: auto;
-}
+
 img{
   display:block;
-  
   width: 700px;
-  height: 200px;
+  height: 700px;
   object-fit: cover;
 }
 #footer{
