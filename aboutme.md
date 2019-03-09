@@ -28,9 +28,9 @@ Human Metrics Personality Score: <a href="http://www.humanmetrics.com/personalit
 
     <img src="Personality Profile1.png"><br>
    
-    <div id="hmPhoto">
+    
     <img src="Human Metrics.png">
-    </div><br>
+    
 Background: New Zealand born Australian Citizen, my education to date is limited.<br> 
 <p>Previous studies at TAFE, diploma of management various other training courses (mainly work stuff). 
 I would have to say that life experience has been my constant teacher to date. I have worked from the ground up in my early years to a senior role in management over my career. 
