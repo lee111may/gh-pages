@@ -27,7 +27,7 @@ Personality Perfect test: <a href="https://www.personalityperfect.com/istj-the-i
 Human Metrics Personality Score: <a href="http://www.humanmetrics.com/personality/intj-type?EI=-16&SN=-25&TF=41&JP=59">Click Here</a><br>
 <div id="screenShot">
     <img src="Personality Profile1.png"><br>
-    </div><br>
+    </div>
     <div id="hmPhoto">
     <img src="Human Metrics.png">
     </div><br>
