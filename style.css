@@ -33,13 +33,13 @@ body{
   float: right;
  
 }
-#screenShot{
+.screenShot{
   border-style: solid;
   border-color: black;
 width: 700px;
   height: auto;
 }
-#hmPhoto{
+.hmPhoto{
 width: auto;
   height: auto;
 }
