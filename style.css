@@ -22,13 +22,13 @@ body{
 #photo1{
  display:block;
   width: 700px;
-  height: 400px;
+  
   object-fit: cover;
 }
 #photo2{
  display:block;
   width: 700px;
-  height: 200px;
+  
   object-fit: cover;
 }
 
