@@ -31,6 +31,7 @@ Human Metrics Personality Score: <a href="http://www.humanmetrics.com/personalit
  <div id="photo2">
     <img src="Human Metrics.png">
  </div>  <br> 
+ <p>While the results of the above tests vary somewhat, I feel that most of it well describes me. I don’t think the results will change my behaviour within a team environment. I am adaptable and will flex to any line of thought the team may be taking.</p>
 Background: New Zealand born Australian Citizen, my education to date is limited.<br> 
 <p>Previous studies at TAFE, diploma of management various other training courses (mainly work stuff). 
 I would have to say that life experience has been my constant teacher to date. I have worked from the ground up in my early years to a senior role in management over my career. 
