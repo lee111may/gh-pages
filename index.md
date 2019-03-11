@@ -5,10 +5,6 @@ h2 {
   background-color: #CECACA;
    color:white;
 }
-#nav{
-   background-color:#CECACA
-   color:white;
-   }
   </style>
  <link rel = "stylesheet" type = "text/css" href = "style.css"/>
  </head>
