@@ -48,8 +48,9 @@ Software and hardware required would be a backend database residing on a server 
 
 <h1>Skills required for the project</h1>
 <p>HTML web development and mobile application development would be required. Github for the Web platform and something also like MIT app development tools. This could be achieved without too much of a high-level skill set. The database integration into both the website and mobile application would be something perplexing but not out of the question for the right team member. There is a lot of help out there and with the right amount of knowledge and the right team this could work.</p>
- <a href="http://ai2.appinventor.mit.edu/">App Inventor</a><br>
- <a href="https://github.com/">Git Hub</a>
+<ul>
+ <li><a href="http://ai2.appinventor.mit.edu/">App Inventor</a><br></li>
+ <li><a href="https://github.com/">Git Hub</a></li>
 <h1>Success of the project</h1>
 <p>If the project becomes successful the impact would be enormous to humanity. The food waste that goes on in Australia alone is enough to make you stop and think how much of a wasteful society we have become. Surely this is not sustainable and sooner or later there will be a worldwide food crisis. If we act now and do something before it gets out of control, then it will greatly benefit all those future generations yet to come after us. I struggle to understand how people can be starving on one side of the planet and yet on the other side of the planet we are throwing out enough to feed them all. It just seems unbalanced and if there is a technological advancement to eliminate or minimise the waste then this could be it.</p>
 
