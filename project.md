@@ -6,7 +6,7 @@
  <body>
  <div id="container">
  <div id="header"><br>
-<h2>Recipe Generator</h2>
+
  </div>
  <div id = "content">
   <div id = "nav">
