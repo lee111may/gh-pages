@@ -41,7 +41,6 @@ I started learning through him and reading and understanding the code and how th
 
 </div>
 </div>
-
 <div id="footer">
  Copyright &copy; 2019 Lee111
  </div>
