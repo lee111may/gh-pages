@@ -53,10 +53,10 @@ Software and hardware required would be a backend database residing on a server 
  <li><a href="https://github.com/">Git Hub</a></li>
 <h1>Success of the project</h1>
 <p>If the project becomes successful the impact would be enormous to humanity. The food waste that goes on in Australia alone is enough to make you stop and think how much of a wasteful society we have become. Surely this is not sustainable and sooner or later there will be a worldwide food crisis. If we act now and do something before it gets out of control, then it will greatly benefit all those future generations yet to come after us. I struggle to understand how people can be starving on one side of the planet and yet on the other side of the planet we are throwing out enough to feed them all. It just seems unbalanced and if there is a technological advancement to eliminate or minimise the waste then this could be it.</p>
-</div>
+
 </div>
 </div>
 <div id="footer">
  Copyright &copy; 2019 Lee111
-
+</div>
 </div>
