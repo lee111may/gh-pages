@@ -1,12 +1,9 @@
 <html>
  <head> 
   <style>
-h2 {
-  background-color: MediumSeaGreen;
-}
-   <h2 style="color:white;"></h2>
+
  <link rel = "stylesheet" type = "text/css" href = "style.css"/>
-  </style>
+ 
  </head>
  <body>
  <div id="container">
