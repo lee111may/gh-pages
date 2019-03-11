@@ -2,7 +2,7 @@
  <head> 
   <style>
 h2 {
-  background-color: #CECACA;
+  background-color: MediumSeaGreen;
    color:white;
 }
  
