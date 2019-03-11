@@ -34,7 +34,7 @@ The application will adjust the food ingredients required depending on how many 
 <p>If the user is on a diet, the application could also search for recipes that are low in fatty ingredients / sugars etcetera and give the user another alternative.</p>
 <p>With measured ingredients every time a family requires a recipe this will go a long way toward food waste and will even benefit the family household budget by over $1,000 per year.
 This would be enough money to feed the family for a month and also help reduce the household food waste from 20% down to (hopefully zero).</p>
-<p>Even if the waste was reduced by a third through use of the application, it would be a significant benefit to not only the household but also the environment and ultimately have food sustainability for our future.</p><br>
+<p>Even if the waste was reduced by a third through use of the application, it would be a significant benefit to not only the household but also the environment and ultimately have food sustainability for our future.</p>
 <h1>Tools and Technology</h1>
 <p>All that would be required would be a mobile phone or tablet or even a P.C. The application could be either Apple or Android and even reside as a website.
 Software and hardware required would be a backend database residing on a server or even if the user wanted local information only without logging into the internet, the information could be saved on their own device and refreshed as required by connecting to the database for recipe updates.</p>
