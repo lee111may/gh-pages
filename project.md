@@ -14,11 +14,7 @@
    </ul>
   </div>
  
- <div id="main">
-     
- 
-  
-
+ <div id="main"> 
 <h1>Recipe generator</h1>
 <p>My project would be an application that asks information from a user such as any allergies, age, weight etc.
 A user would typically enter the required information and enter in current food ingredients found in the users fridge or cupboards. The application will search online for words that the user has input and then calculate the proportionate amount of ingredients required to prepare a meal. Based on the age weight allergies supplied by the user, it will then provide a selection of recipes that could be cooked by the user based on what ingredients have been supplied to the application.</p>
@@ -53,10 +49,9 @@ Software and hardware required would be a backend database residing on a server 
  <li><a href="https://github.com/">Git Hub</a></li>
 <h1>Success of the project</h1>
 <p>If the project becomes successful the impact would be enormous to humanity. The food waste that goes on in Australia alone is enough to make you stop and think how much of a wasteful society we have become. Surely this is not sustainable and sooner or later there will be a worldwide food crisis. If we act now and do something before it gets out of control, then it will greatly benefit all those future generations yet to come after us. I struggle to understand how people can be starving on one side of the planet and yet on the other side of the planet we are throwing out enough to feed them all. It just seems unbalanced and if there is a technological advancement to eliminate or minimise the waste then this could be it.</p>
-
-</div>
 </div>
 <div id="footer">
  Copyright &copy; 2019 Lee111
+</div>
 </div>
 </div>
