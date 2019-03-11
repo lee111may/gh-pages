@@ -3,9 +3,8 @@
   <style>
 h2 {
   background-color: MediumSeaGreen;
-   color:white;
 }
- 
+   <h2 style="color:white;"></h2>
  <link rel = "stylesheet" type = "text/css" href = "style.css"/>
   </style>
  </head>
