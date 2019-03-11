@@ -5,6 +5,10 @@ h2 {
   background-color: #CECACA;
    color:white;
 }
+#nav{
+   background-color:#CECACA
+   color:white;
+   }
   </style>
  <link rel = "stylesheet" type = "text/css" href = "style.css"/>
  </head>
@@ -15,7 +19,7 @@ h2 {
  </div>
  <div id = "content">
  
-  <div id = "nav">
+  <div id = "nav"><br>
    
    <ul>
     <li><a class="selected" href="">Home</a></li>
