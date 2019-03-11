@@ -13,7 +13,7 @@
    <h3>Navigation</h3>
    <ul>
     <li><a class="selected" href="">Home</a></li>
-    <li><a href="aboutme.html">About</a></li>
+    <li><a href="aboutme.md">About</a></li>
     <li><a href="project.md">Project</a></li>
    </ul>
   </div>
