@@ -38,13 +38,13 @@ This would be enough money to feed the family for a month and also help reduce t
 <h1>Tools and Technology</h1>
 <p>All that would be required would be a mobile phone or tablet or even a P.C. The application could be either Apple or Android and even reside as a website.
 Software and hardware required would be a backend database residing on a server or even if the user wanted local information only without logging into the internet, the information could be saved on their own device and refreshed as required by connecting to the database for recipe updates.</p>
-<p>Github could be used to develop the website and free open source databases like MongoDB and Maria DB or even PostgreSQL. There are many others that can be found online through a simple Google search.
- <a href="https://blog.capterra.com/free-database-software/">Open Source Databases</a></p>
+<p>Github could be used to develop the website and free open source databases like MongoDB and Maria DB or even PostgreSQL. There are many others that can be found online through a simple Google search.</p>
+ <a href="https://blog.capterra.com/free-database-software/">Open Source Databases</a>
 
 <h1>Skills required for the project</h1>
-<p>HTML web development and mobile application development would be required. Github for the Web platform and something also like MIT app development tools. This could be achieved without too much of a high-level skill set. The database integration into both the website and mobile application would be something perplexing but not out of the question for the right team member. There is a lot of help out there and with the right amount of knowledge and the right team this could work.
- <a href="http://ai2.appinventor.mit.edu/>App Inventor"</a>
- <a href="https://github.com/">Git Hub</a></p>
+<p>HTML web development and mobile application development would be required. Github for the Web platform and something also like MIT app development tools. This could be achieved without too much of a high-level skill set. The database integration into both the website and mobile application would be something perplexing but not out of the question for the right team member. There is a lot of help out there and with the right amount of knowledge and the right team this could work.</p>
+ <a href="http://ai2.appinventor.mit.edu/">App Inventor</a><br>
+ <a href="https://github.com/">Git Hub</a>
 <h1>Success of the project</h1>
 <p>If the project becomes successful the impact would be enormous to humanity. The food waste that goes on in Australia alone is enough to make you stop and think how much of a wasteful society we have become. Surely this is not sustainable and sooner or later there will be a worldwide food crisis. If we act now and do something before it gets out of control, then it will greatly benefit all those future generations yet to come after us. I struggle to understand how people can be starving on one side of the planet and yet on the other side of the planet we are throwing out enough to feed them all. It just seems unbalanced and if there is a technological advancement to eliminate or minimise the waste then this could be it.</p>
 
