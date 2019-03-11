@@ -2,7 +2,7 @@
  <head> 
   <style>
 h2 {
-  background-color: gray;
+  background-color: #CECACA;
 }
   </style>
  <link rel = "stylesheet" type = "text/css" href = "style.css"/>
