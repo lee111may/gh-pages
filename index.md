@@ -1,5 +1,9 @@
 <html>
  <head> 
+  <style>
+h2 {
+  background-color: gray;
+}
  <link rel = "stylesheet" type = "text/css" href = "style.css"/>
  </head>
  <body>
@@ -20,7 +24,7 @@
  
  <div id="main">
      
- <h2 class="headClass">Hi, my name is Lee and i am currently studying a bachelor of IT at RMIT university through
+ <h2>Hi, my name is Lee and i am currently studying a bachelor of IT at RMIT university through
    Open Universities Australia.</h2>
   
 <b>Why have I chosen to study this course at RMIT?</b><p>
