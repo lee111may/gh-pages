@@ -46,8 +46,8 @@ My favourite sport would be hands down <a href="http://www.motogp.com/"><b>MOTO 
 </div>
 </div>   
 
-<div id="footer">
+<footer>
  Copyright &copy; 2019 Lee111
-</div>
+</footer>
 </div>
 
