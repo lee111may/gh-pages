@@ -8,6 +8,11 @@
   
  </div>
  <div id = "content">
+  <div id = "nav">
+   <ul>
+    <li><a class="selected" href="index.html">Home</a></li>
+   </ul>
+  </div>
  
  <div id="main">
      
