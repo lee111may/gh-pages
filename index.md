@@ -4,6 +4,7 @@
 h2 {
   background-color: gray;
 }
+  </style>
  <link rel = "stylesheet" type = "text/css" href = "style.css"/>
  </head>
  <body>
