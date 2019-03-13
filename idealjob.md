@@ -29,15 +29,15 @@
 <p>•	Design & build innovative mobile apps</p>
 <p>•	Immediate start available</p>
 <p>•	Permanent role based in Maroochydore on the Sunshine Coast</p>
-<p>Build out mobile applications on Android and iOS and maintain and develop on going features in Maroochydore.</p>
+<p><b>Build out mobile applications on Android and iOS and maintain and develop on going features in Maroochydore.</b></p>
 
-<p>Your new company:</p>
+<b>Your new company:</b>
 <p><i>Our client is an industry specific specialist whose innovative & patented management capability maximises productivity and improves service quality. Their applications and software solutions enables their customers to view and control their operations in real-time, delivering insights and benchmarks and streamlining performance.</i></p>
 
-<p>Your new role:</p>
+<b>Your new role:</b>
 <p><i>As a Mobile Applications Developer you will be responsible for building out mobile applications on both Android and iOS as well as maintaining and developing on going features. Coordinating with the rest of the team, a commitment to collaborative problem solving, sophisticated design, and quality product is essential.</i></p>
 
-<p>What you'll need to succeed:</p>
+<b>What you'll need to succeed:</b>
 <p><i>• Design and Build innovative, intuitive and responsive hybrid web application and native app.</i></p>
 <p><i>• Coding, packaging and deployment, as well as monitoring the app performance and stability.</i></p>
 <p><i>• Ensure the performance, quality, and responsiveness of applications</i></p>
