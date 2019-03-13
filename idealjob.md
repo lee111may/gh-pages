@@ -46,7 +46,7 @@
 <p><i>• Identify and correct bottlenecks and fix bugs to optimise performance.</i></p>
 <p><i>• Help maintain code quality, organisation, and automatization</i></p>
 
-<p>Requirements Skills/Experience:</p>
+<b>Requirements Skills/Experience:</b>
 
 <p><i>• Practical knowledge of Objective C, Swift, and Java</i></p>
 <p><i>• 2+ years of experience in Android</i></p>
@@ -54,7 +54,7 @@
 <p><i>• High attention to detail and a knack for making a mobile experience beautiful</i></p>
 <p><i>• Working knowledge of React Native</i></p>
 
-<p>Ability to create intuitive, testable, maintainable and efficient code</p>
+<b>Ability to create intuitive, testable, maintainable and efficient code:</b>
 
 <p><i>• Experience with UI layout designing and UX fundamentals</i></p>
 <p><i>• Experience writing tests and refactoring.</i></p>
