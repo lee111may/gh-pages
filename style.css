@@ -8,7 +8,9 @@ body{
   margin-right: auto;
 }
 
-#header{ 
+#header{
+  background-color: white;
+  color: black;
   text-align: center;
 }
 
@@ -18,16 +20,18 @@ body{
 #photo1{
  display:block;
   width: 700px;
-  
+  height: 400;
   object-fit: cover;
 }
 #photo2{
  display:block;
   width: 700px;
- 
+  height: 200;
   object-fit: cover;
 }
-
+h2{
+color: red;
+}
 #nav{
   width: 180px;
   float: left;
@@ -45,7 +49,7 @@ body{
 img{
   display:block;
   width: 700px;
-  height: 200px;
+  height: 200;
   object-fit: cover;
 }
 #footer{
