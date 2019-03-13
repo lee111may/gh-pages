@@ -1,16 +1,15 @@
 <html>
-<head> 
-    
+ <head> 
  <link rel = "stylesheet" type = "text/css" href = "style.css"/>
  </head>
  <body>
  <div id="container">
- <div id="header">
-     </div>
- 
+ <div id="header"><br>
+  <h2>The Project>/h2>
+ </div>
  <div id = "content">
   <div id = "nav">
-   <h3>Navigation</h3>
+ <h3>Menu>/h3>
    <ul>
     <li><a class="selected" href="index.html">Home</a></li>
        <li><a href="aboutme.html">About</a></li>
