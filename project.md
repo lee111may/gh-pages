@@ -56,8 +56,8 @@ Software and hardware required would be a backend database residing on a server 
 </div>
 </div>   
 </div>
-<div id="footer">
+<div footer>
  Copyright &copy; 2019 Lee111
- </div>
+ </footer>
 </div>
 
