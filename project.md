@@ -5,11 +5,11 @@
  <body>
  <div id="container">
  <div id="header"><br>
-  <h2>The Project>/h2>
+  <h2>The Project</h2>
  </div>
  <div id = "content">
   <div id = "nav">
- <h3>Menu>/h3>
+ <h3>Menu</h3>
    <ul>
     <li><a class="selected" href="index.html">Home</a></li>
        <li><a href="aboutme.html">About</a></li>
