@@ -6,7 +6,7 @@
  <body>
  <div id="container">
  <div id="header"><br>
-<h2>The Good Stuff</h2>
+<h2>The Project</h2>
  </div>
  <div id = "content">
   <div id = "nav">
