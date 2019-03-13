@@ -18,6 +18,7 @@
     <li><a class="selected" href="">Home</a></li>
     <li><a href="aboutme.html">About</a></li>
     <li><a href="project.html">Project</a></li>
+    <li><a href="idealjob.html">Ideal Job</a></li>
    </ul>
   </div>
  
