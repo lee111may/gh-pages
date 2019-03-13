@@ -20,7 +20,7 @@
     <div id="main">
     
  
-<h2 class="headClass">Project Information</h2>
+
   
 
 <h1>Recipe generator</h1>
