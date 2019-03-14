@@ -5,7 +5,7 @@
  </head>
  <body>
  <div id="container">
- <div id="header"><br>
+ <div id="header">
 <h2>The Project</h2>
  </div>
  <div id = "content">
