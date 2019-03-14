@@ -21,7 +21,7 @@
   </div>
     <div id="main">
       <p>Foodwise. (2019). Food Waste Fast Facts. [online] Available at: http://www.foodwise.com.au/foodwaste/food-waste-fast-facts [Accessed 14 Mar. 2019].</p> 
-      <p></p> 
+      <p>Champagne, J. (2019). The Top 7 Free and Open Source Database Software Solutions - Capterra Blog. [online] Blog.capterra.com. Available at: https://blog.capterra.com/free-database-software/ [Accessed 14 Mar. 2019].</p> 
       <p></p> 
       <p></p> 
       <p></p> 
