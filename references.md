@@ -6,7 +6,7 @@
  <body>
  <div id="container">
  <div id="header">
-<h2>The References/h2>
+<h2>The References</h2>
  </div>
  <div id = "content">
   <div id = "nav">
@@ -16,7 +16,7 @@
        <li><a href="aboutme.html">About</a></li>
     <li><a href="project.html">Project</a></li>
        <li><a href="idealjob.html">Ideal Job</a></li>
-     <li><a href="references.html">Ideal Job</a></li>
+     <li><a href="references.html">References/a></li>
    </ul>
   </div>
     <div id="main">
