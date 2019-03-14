@@ -16,6 +16,7 @@
        <li><a href="aboutme.html">About</a></li>
     <li><a href="project.html">Project</a></li>
      <li><a href="idealjob.html">Ideal Job</a></li>
+        <li><a href="references.html">References</a></li>
    </ul>
   </div>
     <div id="main">
