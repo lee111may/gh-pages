@@ -13,7 +13,7 @@
  <div id = "content">
  
   <div id = "nav"><br>
-   
+   <h3>Navigation</h3>
    <ul>
     <li><a class="selected" href="">Home</a></li>
     <li><a href="aboutme.html">About</a></li>
