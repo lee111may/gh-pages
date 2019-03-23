@@ -27,7 +27,7 @@
 
 <h1>Recipe generator</h1>
 <p>My project would be an application that asks information from a user such as any allergies, age, weight etc.
-A user would typically enter the required information and enter in current food ingredients found in the users fridge or cupboards. The application will search online for words that the user has input and then calculate the proportionate amount of ingredients required to prepare a meal. Based on the age weight allergies supplied by the user, it will then provide a selection of recipes that could be cooked by the user based on what ingredients have been supplied to the application.</p>
+A user would typically enter the required information and enter in current food ingredients found in the users fridge or cupboards. The application will search online for words that the user has input and then calculate the proportionate amount of ingredients required to prepare a meal. Based on the age, weight, or any known allergies supplied by the user, it will then provide a selection of recipes that could be cooked by the user based on what ingredients have been supplied to the application.</p>
 <p>I believe that the application will be useful for people with little time to go shopping after a busy day and would just like to prepare something from what they already have on hand. The idea of minimising food waste by having the app calculate exactly how much food will be required for the recipe is appealing as Australia currently wastes four million tonnes of food every year.</p>
 <ul>
   <li>This equates to 345kg per household or in a financial term $8 billion – EVERY YEAR.</li>
